@@ -1,0 +1,7 @@
+package seed
+
+sourcedir = src
+
+main = Main
+
+modules = Main, Seed
